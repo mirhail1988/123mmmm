@@ -1,0 +1,12 @@
+public class числа{
+  public static void main(String[] agrs){
+  int x=5; //2^32 32 bit
+  byte b=12; // 2^8 8bit
+  short s= 2812; // 2^16
+  long l=3265564; // 2^64
+  boolen bool= false; // 8 bit
+  char ch='a'; //16 bit
+  double d=10.0;//16 bit
+  float f= 22.0f;//64 bit
+  }
+  }
